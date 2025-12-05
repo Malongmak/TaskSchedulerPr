@@ -12,6 +12,9 @@ This application showcases:
 * Modern XAML UI design
 * ObservableCollection-based dynamic task listing
 
+SCREEN_SHOT DEMO
+![Image](https://github.com/user-attachments/assets/333798b4-95f2-46cf-8601-e985f05d4892)
+<img width="1344" height="768" alt="Image" src="https://github.com/user-attachments/assets/cd7a25c8-4c1d-4b79-9e34-368fff966d9a" />
 
 ## **🎯 Project Description (Problem Being Solved)**
 
@@ -148,4 +151,4 @@ Feel free to request features or ask for enhancements such as:
 
 ## **📝 Author**
 
-Created as an instructional example for demonstrating WPF task scheduling concepts using modern C# best practices.
+JOSHUA MALONG
